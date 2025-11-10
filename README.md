@@ -8,5 +8,4 @@ This project connects a front-end HTML and CSS interface to an AWS backend using
 
 - Font Family: Segoe UI — https://learn.microsoft.com/en-us/typography/font-list/segoe-ui 
 - Color Palette Inspiration: Coolors — https://coolors.co/
-- Background image: https://unsplash.com/photos/...
 - AWS SDK and API Gateway Documentation — https://docs.aws.amazon.com/
