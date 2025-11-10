@@ -2,23 +2,11 @@
 
 ## Overview
 
-TODO: Write a project description
+This project connects a front-end HTML and CSS interface to an AWS backend using Lambda, API Gateway, and DynamoDB. The app allows users to add, view, and delete items from an inventory system. Styling uses natural earthy tones for a calm, organic look inspired by nature-based UI design.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
+- Font Family: Segoe UI — https://learn.microsoft.com/en-us/typography/font-list/segoe-ui 
+- Color Palette Inspiration: Coolors — https://coolors.co/
 - Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- AWS SDK and API Gateway Documentation — https://docs.aws.amazon.com/
